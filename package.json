@@ -16,6 +16,8 @@
     "url": "https://github.com/leandrocurzi/eslint-config-demo-main/issues"
   },
   "homepage": "https://github.com/leandrocurzi/eslint-config-demo-main#readme",
-  "dependencies": {},
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0"
+  },
   "devDependencies": {}
 }
