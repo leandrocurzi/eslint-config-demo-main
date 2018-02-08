@@ -5,6 +5,7 @@ module.exports = {
         semi: ['error', 'always'],
         indent: [2, 4],
         'no-console': 'off',
-        'comma-dangle': 0
+        'comma-dangle': 0,
+        'eslint class-methods-use-this': 0
     }
 };
