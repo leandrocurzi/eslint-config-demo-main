@@ -6,6 +6,7 @@ module.exports = {
         indent: [2, 4],
         'no-console': 'off',
         'comma-dangle': 0,
-        'eslint class-methods-use-this': 0
+        'class-methods-use-this': 0,
+        'no-unused-vars': 0
     }
 };
