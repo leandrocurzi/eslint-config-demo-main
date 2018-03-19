@@ -9,6 +9,7 @@ module.exports = {
         'no-unused-vars': 0,
         'arrow-body-style': 0,
         'prefer-destructuring': 0,
-        'no-param-reassign': 0
+        'no-param-reassign': 0,
+        'no-useless-escape': 0
       },
 };
