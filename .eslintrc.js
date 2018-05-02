@@ -10,6 +10,7 @@ module.exports = {
         'arrow-body-style': 0,
         'prefer-destructuring': 0,
         'no-param-reassign': 0,
-        'no-useless-escape': 0
+        'no-useless-escape': 0,
+        "max-len": 0
       },
 };
