@@ -11,6 +11,7 @@ module.exports = {
         'prefer-destructuring': 0,
         'no-param-reassign': 0,
         'no-useless-escape': 0,
-        "max-len": 0
+        "max-len": 0,
+        "no-mixed-operators": 0
       },
 };
